@@ -1,4 +1,4 @@
-# Nike Store Commerce Web Application! Check Live: [https://react-nike-like-ecommerce.netlify.ap)
+# Nike Store Commerce Web Application! Check Live: [https://react-nike-like-ecommerce.netlify.app)
 - Pre-requisites: Nothings! Just Stuck into This Course
 This is a [Vite.js](https://vitejs.dev/) project bootstrapped with [`npm create vite@latest`]. Designed with TailwindCSS!
 # Important Links: 📣📢📣📢📣📢✈✈✈
